@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="CyberSecurityChatBotGUI.Tabs.ChatbotTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="#E6F2E6">
+
+    <Border Margin="15" Background="White" Padding="15" BorderBrush="#A9D0A9" BorderThickness="1" CornerRadius="12">
+        <StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+                <TextBlock FontSize="22" FontWeight="Bold" Foreground="#2E8B57" Text="💬 CYRA - Your Cybersecurity Assistant"/>
+            </StackPanel>
+
+            <TextBlock FontSize="14" FontWeight="SemiBold" Foreground="DarkGreen" 
+                       HorizontalAlignment="Center" Text="Chat with CYRA to learn about cybersecurity, manage your tasks, and have fun! 🌿" 
+                       Margin="0,0,0,15" TextAlignment="Center"/>
+
+            <Border BorderBrush="#A9D0A9" BorderThickness="1" CornerRadius="5" Background="#F1F8F1" Padding="10" Margin="0,0,0,10">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="400">
+                    <TextBlock x:Name="ChatOutput" TextWrapping="Wrap" FontSize="16" Foreground="Black" Margin="5"/>
+                </ScrollViewer>
+            </Border>
+
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <TextBox x:Name="UserInput" Width="700" FontSize="14" Margin="0,0,10,0"
+                         Background="#FFFFFF" Foreground="Black" BorderBrush="#A9D0A9" BorderThickness="1" Padding="5"/>
+                <Button Content="Send" Width="100" Background="#4CAF50" Foreground="White" FontWeight="Bold" BorderBrush="#388E3C"
+                        Click="SendButton_Click"/>
+            </StackPanel>
+
+            <TextBlock Text="🌿 Keep exploring and asking questions to boost your cybersecurity knowledge! 🌿" FontStyle="Italic"
+                       Foreground="DarkGreen" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+
+        </StackPanel>
+    </Border>
+</UserControl>

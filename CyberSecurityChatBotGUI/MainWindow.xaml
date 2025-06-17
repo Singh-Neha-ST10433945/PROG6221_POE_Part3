@@ -1,0 +1,25 @@
+﻿<Window x:Class="CyberSecurityChatBotGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:tabs="clr-namespace:CyberSecurityChatBotGUI.Tabs"
+        Title="CYRA - Cybersecurity Awareness Chatbot"
+        Height="600"
+        Width="800"
+        Background="#E8F5E9">
+    <Grid>
+        <TabControl FontFamily="Segoe UI" FontSize="14">
+            <TabItem Header="💬 Chatbot">
+                <tabs:ChatbotTab x:Name="ChatbotTabControl" />
+            </TabItem>
+            <TabItem Header="📝 Task Assistant">
+                <tabs:TaskTab x:Name="TaskTabControl" />
+            </TabItem>
+            <TabItem Header="🎮 Quiz Game">
+                <tabs:QuizTab x:Name="QuizTabControl" />
+            </TabItem>
+            <TabItem Header="📜 Activity Log">
+                <tabs:LogTab x:Name="LogTabControl" />
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

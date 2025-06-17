@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="CyberSecurityChatBotGUI.Tabs.LogTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="#E8F5E9">
+    <StackPanel Margin="10" Background="#E8F5E9">
+
+        <!-- Header -->
+        <TextBlock FontSize="22" FontWeight="Bold" Foreground="#2E8B57"
+                   Text="📚 Activity Log" Margin="0,0,0,5" HorizontalAlignment="Center"/>
+        <TextBlock FontSize="14" Text="Here’s a quick glance at all your tasks, actions, and updates. Stay informed and keep track of your journey!"
+                   Foreground="DarkGreen" Margin="0,0,0,10" TextAlignment="Center"/>
+
+        <!-- Search and Refresh -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0,0,0,10" Width="300">
+            <Border CornerRadius="5" Background="White" BorderBrush="#A9D0A9" BorderThickness="1" Margin="0,5">
+                <TextBox x:Name="SearchBox" Height="30" Padding="5"
+                         Background="White" BorderThickness="0" Text="Search..."
+                         GotFocus="SearchBox_GotFocus" LostFocus="SearchBox_LostFocus"/>
+            </Border>
+            <Button Content="🔍 Search" Width="250" Height="30" Margin="0,5"
+        Click="SearchButton_Click" Background="#4CAF50" Foreground="White" FontWeight="Bold" BorderBrush="#388E3C"/>
+
+            <Button Content="🔄 Refresh" Width="250" Height="30" Margin="0,5"
+        Click="RefreshButton_Click" Background="#4CAF50" Foreground="White" FontWeight="Bold" BorderBrush="#388E3C"/>
+
+            <Button Content="❌ Clear" Width="250" Height="30" Margin="0,5"
+        Click="ClearSearchButton_Click" Background="#4CAF50" Foreground="White" FontWeight="Bold" BorderBrush="#388E3C"/>
+
+        </StackPanel>
+
+        <!-- Divider -->
+        <Separator Margin="0,10" Background="#BDBDBD"/>
+
+        <!-- DataGrid -->
+        <Border CornerRadius="5" BorderBrush="#A9D0A9" BorderThickness="1" Background="White">
+            <DataGrid x:Name="LogDataGrid" AutoGenerateColumns="False" Height="400"
+                      AlternatingRowBackground="WhiteSmoke"
+                      HeadersVisibility="Column"
+                      CanUserAddRows="False"
+                      IsReadOnly="True"
+                      Background="White"
+                      BorderThickness="0"
+                      Margin="0,10,0,0"
+                      RowHeaderWidth="0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="⏰ Time" Width="150"
+                                        Binding="{Binding Timestamp, StringFormat='{}{0:yyyy-MM-dd HH:mm:ss}'}"/>
+                    <DataGridTextColumn Header="📝 Message" Binding="{Binding Message}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+
+        <TextBlock Text="🌿 Stay curious and secure! 🌿" FontStyle="Italic" Foreground="DarkGreen"
+                   Margin="0,10,0,0" HorizontalAlignment="Center"/>
+    </StackPanel>
+</UserControl>

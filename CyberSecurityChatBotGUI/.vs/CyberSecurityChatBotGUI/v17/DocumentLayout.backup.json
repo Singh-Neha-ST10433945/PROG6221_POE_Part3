@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\utils\\responsehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:utils\\responsehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\utils\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:utils\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\utils\\activitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:utils\\activitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\tabs\\tasktab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:tabs\\tasktab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\tabs\\quiztab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:tabs\\quiztab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\tabs\\logtab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:tabs\\logtab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\tabs\\chatbottab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:tabs\\chatbottab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\tabs\\chatbottab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:tabs\\chatbottab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part3\\cybersecuritychatbotgui\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115E14ED-248A-437F-891F-89DBD7B7E2F8}|CyberSecurityChatBotGUI.csproj|solutionrelative:models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:54:19.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:54:16.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T12:54:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Utils\\ResponseHandlers.cs",
+              "RelativeDocumentMoniker": "Utils\\ResponseHandlers.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Utils\\ResponseHandlers.cs",
+              "RelativeToolTip": "Utils\\ResponseHandlers.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAQwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:54:00.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatbotEngine.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Utils\\ChatbotEngine.cs",
+              "RelativeDocumentMoniker": "Utils\\ChatbotEngine.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Utils\\ChatbotEngine.cs",
+              "RelativeToolTip": "Utils\\ChatbotEngine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:53:47.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\TaskTab.xaml.cs",
+              "RelativeDocumentMoniker": "Tabs\\TaskTab.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\TaskTab.xaml.cs",
+              "RelativeToolTip": "Tabs\\TaskTab.xaml.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAYwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:53:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\QuizTab.xaml.cs",
+              "RelativeDocumentMoniker": "Tabs\\QuizTab.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\QuizTab.xaml.cs",
+              "RelativeToolTip": "Tabs\\QuizTab.xaml.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:53:07.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\LogTab.xaml.cs",
+              "RelativeDocumentMoniker": "Tabs\\LogTab.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\LogTab.xaml.cs",
+              "RelativeToolTip": "Tabs\\LogTab.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:52:54.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatbotTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\ChatbotTab.xaml.cs",
+              "RelativeDocumentMoniker": "Tabs\\ChatbotTab.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\ChatbotTab.xaml.cs",
+              "RelativeToolTip": "Tabs\\ChatbotTab.xaml.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAYwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:52:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatbotTab.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\ChatbotTab.xaml",
+              "RelativeDocumentMoniker": "Tabs\\ChatbotTab.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Tabs\\ChatbotTab.xaml",
+              "RelativeToolTip": "Tabs\\ChatbotTab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T12:52:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Models\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Models\\LogEntry.cs",
+              "RelativeToolTip": "Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:52:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityLogger.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Utils\\ActivityLogger.cs",
+              "RelativeDocumentMoniker": "Utils\\ActivityLogger.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part3\\CyberSecurityChatBotGUI\\Utils\\ActivityLogger.cs",
+              "RelativeToolTip": "Utils\\ActivityLogger.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:19:00.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
