@@ -1,3 +1,6 @@
+**GitHub Link:** https://github.com/Singh-Neha-ST10433945/PROG6221_POE_Part3.git
+**Unlisted YouTube Video Link:** 
+
 # 🛡️ CyberSecurityChatBotGUI
 
 A WPF desktop application built with C# to educate users on cybersecurity using conversational AI, a task assistant, a quiz mini-game, and detailed logging.
